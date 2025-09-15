@@ -1,6 +1,6 @@
 # DreamNest.ai – AI-Powered Home Designer & Marketplace
 
-![DreamNest UI](https://storage.googleapis.com/aistudio-ux-team-data/promo-images/screenshot.png)
+![DreamNest UI](screenshot.png)
 
 ## 🌟 Core Idea
 
